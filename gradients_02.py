@@ -1,4 +1,5 @@
-# Gradient Descent with Autograd and Backpropagation (using PyTorch gradient descent)
+# Gradient Descent with Autograd and Backpropagation 2
+## Use PyTorch to compute gradients
 
 import torch
 

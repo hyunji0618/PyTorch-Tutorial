@@ -1,4 +1,13 @@
-# Gradient Descent with Autograd and Backpropagation (using numpy - manually calculating everything)
+# Gradient Descent with Autograd and Backpropagation 1
+## Not using PyTorch - manually calculating everything
+
+# Pipeline
+## 1) Design model (input, output size, forward pass)
+## 2) Construct loss and optimizer
+## 3) Training loop
+##   - forward pass: compute prediction
+##   - back pass: gradients
+##   - update weights
 
 import numpy as np
 
