@@ -43,7 +43,7 @@ for epoch in range(num_epochs):
     # backward pass
     loss.backward()
     
-    # update
+    # update the progress
     optimizer.step()
     optimizer.zero_grad()
     
